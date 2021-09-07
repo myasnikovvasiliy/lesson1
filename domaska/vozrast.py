@@ -13,5 +13,5 @@ def vozrast(user_vozrast):
     else:
         return "На конец-то на пенсию!"
 
-opredelim_vozrast = vozrast(float(user_vozrast))#вызываем функцию
+opredelim_vozrast = vozrast(int(user_vozrast))#вызываем функцию
 print(opredelim_vozrast)
