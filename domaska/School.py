@@ -18,4 +18,8 @@ def avg_bal_school(school_journal):
 	avg_bal_school = all_ball_school / count_ball_school
 	print(f'Средняя оценка всей школы: {avg_bal_school}')
 
+<<<<<<< HEAD
 avg_bal_school(school_ball)
+=======
+avg_bal_school(school_ball)
+>>>>>>> 3da2dfb442d713bae54743bdbe4ae1611eee24e0
